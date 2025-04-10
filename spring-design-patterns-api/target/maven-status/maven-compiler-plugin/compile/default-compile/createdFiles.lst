@@ -1,0 +1,6 @@
+com/bruno/designpatterns/controller/ClienteController.class
+com/bruno/designpatterns/repository/ClienteRepository.class
+com/bruno/designpatterns/model/entity/Cliente.class
+com/bruno/designpatterns/singleton/LoggerSingleton.class
+com/bruno/designpatterns/facade/ClienteServiceFacade.class
+com/bruno/designpatterns/DesignPatternsApplication.class
