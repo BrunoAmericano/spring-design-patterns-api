@@ -1,0 +1,6 @@
+/workspaces/spring-design-patterns-api/spring-design-patterns-api/src/main/java/com/bruno/designpatterns/controller/ClienteController.java
+/workspaces/spring-design-patterns-api/spring-design-patterns-api/src/main/java/com/bruno/designpatterns/model/entity/Cliente.java
+/workspaces/spring-design-patterns-api/spring-design-patterns-api/src/main/java/com/bruno/designpatterns/DesignPatternsApplication.java
+/workspaces/spring-design-patterns-api/spring-design-patterns-api/src/main/java/com/bruno/designpatterns/facade/ClienteServiceFacade.java
+/workspaces/spring-design-patterns-api/spring-design-patterns-api/src/main/java/com/bruno/designpatterns/singleton/LoggerSingleton.java
+/workspaces/spring-design-patterns-api/spring-design-patterns-api/src/main/java/com/bruno/designpatterns/repository/ClienteRepository.java
